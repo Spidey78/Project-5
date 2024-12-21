@@ -899,7 +899,7 @@ body{
 
 .sec8{
   width: 100%;
-  height: 100vh;
+  height: 130vh;
   background-color: red;
   display: flex;
 }
@@ -941,4 +941,17 @@ body{
   width: 50%;
   height: 100%;
   background-color: yellowgreen;
+}
+
+
+.sec8-2-1{
+  width: 100%;
+  height: 50%;
+  background-color: red;
+}
+
+.sec8-2-2{
+  width: 100%;
+  height: 50%;
+  background-color: yellow;
 }
