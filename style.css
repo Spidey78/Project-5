@@ -909,10 +909,32 @@ body{
   width: 50%;
   height: 100%;
   background-color: orange;
+  display: inline-flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-content: center;
+  padding-top: 30px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 
+#sec8txt .letters{
+  width: 80%;
+  font-size: 50px;
+  font-weight: 800;
+  
+  /* word-spacing: -5px; */
+  padding: 0;
+  color: black;
+}
 
+.sec8txt1{
+  text-align: left;
+  font-size: 15px
+  
+
+}
 
 
 .sec8-2{
@@ -920,14 +942,3 @@ body{
   height: 100%;
   background-color: yellowgreen;
 }
-
-
-#sec8txt .letters{
-  font-size: 40px;
-  padding: 0;
-  color: black;
-}
-
-/* hshshshshshddhdhs */
-
-

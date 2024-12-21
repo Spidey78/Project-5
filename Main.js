@@ -102,7 +102,6 @@ arraay.forEach(function (f){
   
 });
 
-
 gsap.from(".sec2div span",{
   y: 100,
   opacity:0,
