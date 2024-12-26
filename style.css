@@ -802,7 +802,7 @@ body{
   background-image: url(./images/sec7.jpg);
   background-position: center;
   transition: 0.5s;
-  overflow: hidden;
+  /* overflow: hidden; */
   
 }
 
@@ -899,8 +899,8 @@ body{
 
 .sec8{
   width: 100%;
-  height: 130vh;
-  background-color: red;
+  height: 140vh;
+  /* background-color: red; */
   display: flex;
 }
 
@@ -908,7 +908,7 @@ body{
 .sec8-1{
   width: 50%;
   height: 100%;
-  background-color: orange;
+  /* background-color: orange; */
   display: inline-flex;
   flex-direction: column;
   /* justify-content: center; */
@@ -926,12 +926,13 @@ body{
   
   /* word-spacing: -5px; */
   padding: 0;
-  color: black;
+  color: white;
 }
 
 .sec8txt1{
   text-align: left;
-  font-size: 15px
+  font-size: 15px;
+  color: white;
   
 
 }
@@ -940,18 +941,122 @@ body{
 .sec8-2{
   width: 50%;
   height: 100%;
-  background-color: yellowgreen;
+  /* background-color: yellowgreen; */
 }
 
 
 .sec8-2-1{
   width: 100%;
   height: 50%;
-  background-color: red;
+  /* background-color: red; */
+  display: flex;
 }
 
 .sec8-2-2{
   width: 100%;
   height: 50%;
-  background-color: yellow;
+  /* background-color: yellow; */
+  display: flex;
+}
+
+
+.sec8-2-1-1{
+  width: 50%;
+  height: 100%;
+  /* background-color: aquamarine; */
+}
+
+.sec8-2-1-2{
+  width: 50%;
+  height: 100%;
+  /* background-color: wheat; */
+}
+
+
+.sec8-2-1-3{
+  width: 50%;
+  height: 100%;
+  /* background-color: green; */
+}
+
+.sec8-2-1-4{
+  width: 50%;
+  height: 100%;
+  /* background-color: grey; */
+}
+
+
+.sec8img{
+  width: 100%;
+  height: 80%;
+  overflow: hidden;
+  border-radius: 50px;
+}
+
+.sec8img1{
+  width: 100%;
+  height: 100%;
+  background-image: url(./images/sec7.jpg);
+  background-position: center;
+  transition: 0.5s;
+  /* overflow: hidden; */
+  
+}
+
+.sec8img1:hover{
+  transform: scale(1.1);
+}
+
+
+.sec8img2{
+  width: 100%;
+  height: 100%;
+  background-image: url(./images/sec7.jpg);
+  background-position: center;
+  transition: 0.5s;
+  /* overflow: hidden; */
+  
+}
+
+
+.sec8img2:hover{
+  transform: scale(1.1);
+}
+
+
+.sec8img3{
+  width: 100%;
+  height: 100%;
+  background-image: url(./images/sec7.jpg);
+  background-position: center;
+  transition: 0.5s;
+  /* overflow: hidden; */
+  
+}
+
+
+.sec8img3:hover{
+  transform: scale(1.1);
+}
+
+
+.sec8img4{
+  width: 100%;
+  height: 100%;
+  background-image: url(./images/sec7.jpg);
+  background-position: center;
+  transition: 0.5s;
+  /* overflow: hidden; */
+  
+}
+
+.sec8img4:hover{
+  transform: scale(1.1);
+}
+
+
+.nametag{
+  color: white;
+  padding-top: 10px;
+
 }
