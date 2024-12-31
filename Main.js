@@ -1,4 +1,5 @@
 // button video section 5 
+// start page 
 
 
 var bttn1 = document.getElementById('bttn1');
